@@ -1,0 +1,3 @@
+/Users/modibosow/opencv/simple_demo/build/CMakeFiles/rebuild_cache.dir
+/Users/modibosow/opencv/simple_demo/build/CMakeFiles/edit_cache.dir
+/Users/modibosow/opencv/simple_demo/build/CMakeFiles/simple-demo.dir
